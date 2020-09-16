@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/stsn/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/02_category_widget/task_02_category_widget"
-export "FLUTTER_TARGET=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/02_category_widget/task_02_category_widget/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/03_category_route/solution_03_category_route"
+export "FLUTTER_TARGET=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/03_category_route/solution_03_category_route/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
