@@ -1,12 +1,12 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/a14479/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/a14479/git/github.com/satoshun-dart-example/udacity-course/course/own_app1"
-export "FLUTTER_TARGET=/Users/a14479/git/github.com/satoshun-dart-example/udacity-course/course/own_app1/lib/main.dart"
+export "FLUTTER_ROOT=/Users/stsn/development/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/own_app1"
+export "FLUTTER_TARGET=/Users/stsn/git/github.com/satoshun-dart-example/udacity-course/course/own_app1/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
-export "FLUTTER_FRAMEWORK_DIR=/Users/a14479/development/flutter/bin/cache/artifacts/engine/ios"
+export "FLUTTER_FRAMEWORK_DIR=/Users/stsn/development/flutter/bin/cache/artifacts/engine/ios"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
 export "DART_DEFINES=flutter.inspector.structuredErrors%3Dtrue"

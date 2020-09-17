@@ -23,6 +23,10 @@ void main() {
           ),
         ),
         body: Twitter(),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () => print("floating action button"),
+          child: const Icon(Icons.call),
+        ),
       ),
     ),
   );
